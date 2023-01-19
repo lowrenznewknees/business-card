@@ -1,0 +1,29 @@
+body {
+  margin: 20px;
+  font-family: 'Trebuchet MS';
+  
+}
+
+.avatar{
+  width: 150px;
+  border-radius: 300px;
+  border:2px solid #2D4654;
+}
+
+.card{
+  
+  margin: 0 auto;
+  background: #9EBC9E;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content:space-around ;
+  width:400px;
+  text-align: center;
+  color:#2b2839 ;
+  border-bottom:6px solid #2D4654;
+}
+
+.border-blue{
+  border: 1px dotted blue;
+}
